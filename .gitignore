@@ -1,0 +1,16 @@
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Windows thumbnail & desktop caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# OS generated
+.DS_Store
+
+# Temporary scratch logs
+*.tmp
